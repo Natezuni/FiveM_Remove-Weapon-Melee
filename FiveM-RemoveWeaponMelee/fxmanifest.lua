@@ -6,5 +6,5 @@ author 'Nate'
 version '1.0.0'
 
 client_scripts {
-    'Client/*.lua'
+    'Client/cl_*.lua'
 }
